@@ -3,9 +3,10 @@
 ---
 
 ## 📊 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=uldYssian-sh&theme=tokyonight)
 ![LT’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=uldYssian-sh&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uldYssian-sh&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=uldYssian-sh&theme=tokyonight)
 
 ---
 
