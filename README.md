@@ -1,5 +1,14 @@
 # Hi, I'm LT (uldYssian-sh) 👋
 
+## 🙋 About Me
+**Infrastructure Engineer | VCIX-DCV | vExpert | Tech Blogger**  
+Specialized in **Data Center Virtualization & Cloud Management**.  
+
+I’m passionate about designing and deploying enterprise-grade virtualization solutions, automating infrastructure, and exploring the intersection of cloud and data center technologies.  
+
+💡 Focus areas: **VMware vSphere, Cloud Foundation (VCF), vSAN, and Hybrid Cloud.**  
+🌍 Active in the community, sharing knowledge and contributing to technical blogs and forums.  
+
 ---
 
 ## 📊 GitHub Stats
@@ -30,16 +39,5 @@
 **Other Programs & Communities**  
 - 🌐 **AWS Connected Community**  
 - 🌐 **Broadcom Community**  
-
----
-
-## 🙋 About Me
-**Infrastructure Engineer | VCIX-DCV | vExpert | Tech Blogger**  
-Specialized in **Data Center Virtualization & Cloud Management**.  
-
-I’m passionate about designing and deploying enterprise-grade virtualization solutions, automating infrastructure, and exploring the intersection of cloud and data center technologies.  
-
-💡 Focus areas: **VMware vSphere, Cloud Foundation (VCF), vSAN, and Hybrid Cloud.**  
-🌍 Active in the community, sharing knowledge and contributing to technical blogs and forums.  
 
 ---
