@@ -13,7 +13,6 @@
 ## 🛠️ Technologies & Tools
 - **Virtualization & Cloud**: VMware vSphere, VMware Cloud Foundation (VCF), vSAN  
 - **Cloud Platforms**: AWS  
-- **Automation & Infrastructure**: Aria Suite, Infrastructure as Code, GitHub Actions
    
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Technologies-VMware-informational?style=flat&logo=vmware&logoColor=white&color=blue)
