@@ -20,7 +20,7 @@ I’m passionate about designing and deploying enterprise-grade virtualization s
 ---
 
 ## 🛠️ Technologies & Tools
-- **Virtualization & Cloud**: VMware vSphere, VMware Cloud Foundation (VCF), vSAN  
+- **Virtualization & Cloud**: VMware vSphere, VMware Cloud Foundation
 - **Cloud Platforms**: AWS  
    
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=blue)
