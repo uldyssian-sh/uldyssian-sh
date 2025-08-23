@@ -6,7 +6,7 @@ Specialized in **Data Center Virtualization & Cloud Management**.
 
 I’m passionate about designing and deploying enterprise-grade virtualization solutions, automating infrastructure, and exploring the intersection of cloud and data center technologies.  
 
-💡 Focus areas: **VMware vSphere, Cloud Foundation (VCF), vSAN, and Hybrid Cloud.**  
+💡 Focus areas: **VMware vSphere, VMware Cloud Foundation, vSAN, and Hybrid Cloud**  
 🌍 Active in the community, sharing knowledge and contributing to technical blogs and forums.  
 
 ---
