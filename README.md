@@ -1,5 +1,8 @@
 # Hi, I'm LT (uldYssian-sh) 👋
 
+## Visit my Profile [here] (https://github.com/uldyssian-sh/)
+
+![](https://komarev.com/ghpvc/?username=imtrinity94&color=green) <br>
 ---
 
 ## 📊 GitHub Stats
