@@ -20,6 +20,7 @@
 ---
 
 ## 🏆 Accomplishments
+- 🌟 **VMware vExpert 2023 - 2025**
 - 🎓 **VCP-VCF Admin/Architect**  
 - 🎓 **VCAP-DCV Design**  
 - 🎓 **VCIX-DCV 2023**  
