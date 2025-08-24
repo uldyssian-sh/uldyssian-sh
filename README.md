@@ -43,7 +43,3 @@ I’m passionate about designing and deploying enterprise-grade virtualization s
 - 🌐 **Broadcom Community**  
 
 ---
-
-**What I’m working on**
-VMware/Virtualization focus
-👉 Currently working on validating VMware Cloud Foundation solutions, focusing on scalability and resilience testing, using PowerShell and Python.
