@@ -23,8 +23,7 @@ I’m passionate about designing and deploying enterprise-grade virtualization s
 - **Virtualization & Cloud**: VMware vSphere, VMware Cloud Foundation
 - **Cloud Platforms**: AWS  
    
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Language-Bash/Python-informational?style=flat&logo=Language&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Language-Bash/Python,PowerShell-informational?style=flat&logo=Language&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Technologies-VMware-informational?style=flat&logo=vmware&logoColor=white&color=blue)
 
 
