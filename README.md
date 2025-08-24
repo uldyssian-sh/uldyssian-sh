@@ -43,5 +43,30 @@ I’m passionate about designing and deploying enterprise-grade virtualization s
 - 🌐 **Broadcom Community**  
 
 ---
-## 📊 GitHub Activity Graph
-[![uldYssian-sh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=uldYssian-sh&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 📊 Most Used Languages Card
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uldYssian-sh&layout=compact&theme=radical)
+
+---
+
+GitHub Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=uldYssian-sh&theme=radical)](https://git.io/streak-stats)
+
+---
+
+Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=uldYssian-sh&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+Contribution Snake
+![Snake animation](https://github.com/uldYssian-sh/uldYssian-sh/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+Visitor Counter
+![Visitor Count](https://komarev.com/ghpvc/?username=uldYssian-sh&color=blue&style=flat)
+
+---
+
+Random Quote / Joke
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
