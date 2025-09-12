@@ -13,8 +13,13 @@ I’m passionate about designing and deploying enterprise-grade virtualization s
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uldYssian-sh&layout=compact&theme=tokyonight)
-![LT’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=uldYssian-sh&show_icons=true&theme=tokyonight)
+<!-- Overview -->
+![](https://raw.githubusercontent.com/uldyssian-sh/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/uldyssian-sh/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+<!-- Languages -->
+![](https://raw.githubusercontent.com/uldyssian-sh/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/uldyssian-sh/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ---
 
