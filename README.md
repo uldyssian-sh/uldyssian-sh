@@ -8,7 +8,7 @@ I’m passionate about designing and deploying enterprise-grade virtualization s
 
 💡 Focus areas: **VMware vSphere, VMware Cloud Foundation, vSAN, and Hybrid Cloud**  
 🌍 Active in the community, sharing knowledge and contributing to technical blogs and forums.  
-📅 **Active since 2017 (7+ years)**
+📅 Active since 2017
 
 ---
 
