@@ -13,7 +13,13 @@ I’m passionate about designing and deploying enterprise-grade virtualization s
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uldyssian-sh&show_icons=true&theme=radical)
+<div style="overflow-x: auto;">
+  
+| Column A | Column B | Column C |
+|----------|----------|----------|
+| 123      | 456      | 789      |
+
+</div>
 
 ![](https://raw.githubusercontent.com/uldyssian-sh/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/uldyssian-sh/github-stats/master/generated/overview.svg#gh-light-mode-only)
