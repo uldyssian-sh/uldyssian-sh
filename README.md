@@ -9,7 +9,7 @@ I’m passionate about designing and deploying enterprise-grade virtualization s
 💡 Focus areas: **VMware vSphere, VMware Cloud Foundation, vSAN, and Hybrid Cloud**  
 🌍 Active in the community, sharing knowledge and contributing to technical blogs and forums.  
 
-![Followers](https://img.shields.io/github/followers/uldyssian-sh?style=social) ![Stars](https://img.shields.io/github/stars/uldyssian-sh?style=social) ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fuldyssian-sh) ![Since](https://img.shields.io/badge/Active%20Since-2017-red)
+![Since](https://img.shields.io/badge/Active%20Since-2017-red)
 
 ---
 
