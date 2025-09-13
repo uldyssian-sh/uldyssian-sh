@@ -13,25 +13,10 @@ I’m passionate about designing and deploying enterprise-grade virtualization s
 
 ## 📊 GitHub Stats
 
-## GitHub Stats
+## LT's GitHub Statistics
 
 ![](https://raw.githubusercontent.com/uldyssian-sh/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/uldyssian-sh/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-
-## LT's GitHub Statistics
-
-## LT's GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uldyssian-sh&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&rank_icon=percentile" width="49%" alt="GitHub Stats">
-  <img src="https://streak-stats.demolab.com?user=uldyssian-sh&hide_border=true" width="49%" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uldyssian-sh&layout=compact&hide_border=true" width="49%" alt="Top Languages">
-  <img src="https://github-profile-trophy.vercel.app/?username=uldyssian-sh&no-bg=true&no-frame=true&row=1&column=6" width="49%" alt="GitHub Trophies">
-</p>
 
 <!-- Languages -->
 ![](https://raw.githubusercontent.com/uldyssian-sh/github-stats/master/generated/languages.svg#gh-dark-mode-only)
