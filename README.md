@@ -13,6 +13,17 @@ I’m passionate about designing and deploying enterprise-grade virtualization s
 
 ## 📊 GitHub Stats
 
+## GitHub Stats
+
+<div style="overflow-x: auto;">
+
+<!-- Obrázky / grafy s tvojimi štatistikami -->
+<img src="https://github-readme-stats.vercel.app/api?username=uldyssian-sh&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uldyssian-sh&layout=compact&theme=radical" alt="Top Languages" />
+
+</div>
+
 ![](https://raw.githubusercontent.com/uldyssian-sh/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/uldyssian-sh/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
