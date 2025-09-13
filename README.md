@@ -22,8 +22,6 @@ I’m passionate about designing and deploying enterprise-grade virtualization s
 ![](https://raw.githubusercontent.com/uldyssian-sh/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/uldyssian-sh/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=uldyssian-sh&theme=radical&column=7)
-
 
 ---
 
