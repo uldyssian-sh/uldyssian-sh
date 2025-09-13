@@ -1,6 +1,9 @@
 # Hi, I'm LT (uldYssian-sh) 👋
 
 ## 🙋 About Me
+
+[![Years Badge](https://badges.pufler.dev/years/uldyssian-sh)](https://github.com/uldyssian-sh) [![Repos Badge](https://badges.pufler.dev/repos/uldyssian-sh)](https://github.com/uldyssian-sh) [![Commits Badge](https://badges.pufler.dev/commits/monthly/uldyssian-sh)](https://github.com/uldyssian-sh)
+
 **Infrastructure Engineer | VCIX-DCV | vExpert | Tech Blogger**  
 Specialized in **Data Center Virtualization & Cloud Management**.  
 
