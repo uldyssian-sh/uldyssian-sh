@@ -10,7 +10,7 @@ I’m passionate about designing and deploying enterprise-grade virtualization s
 🌍 Active in the community, sharing knowledge and contributing to technical blogs and forums.  
 📅 Active since 2017
 
-![Repos](https://img.shields.io/badge/Repositories-30-blue) ![Stars](https://img.shields.io/badge/Total%20Stars-15-yellow) ![Followers](https://img.shields.io/badge/Followers-4-green) ![Years](https://img.shields.io/badge/Active%20Since-2017-red)
+![Followers](https://img.shields.io/github/followers/uldyssian-sh?style=social) ![Stars](https://img.shields.io/github/stars/uldyssian-sh?style=social) [![Years Badge](https://badges.pufler.dev/years/uldyssian-sh)](https://github.com/uldyssian-sh) [![Repos Badge](https://badges.pufler.dev/repos/uldyssian-sh)](https://github.com/uldyssian-sh)
 
 ---
 
