@@ -13,12 +13,12 @@ I'm passionate about designing and deploying enterprise-grade virtualization sol
 
 ## 📊 GitHub Stats
 
-![](https://raw.githubusercontent.com/uldyssian-sh/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/uldyssian-sh/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![Diagram](https://raw.githubusercontent.com/uldyssian-sh/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Diagram](https://raw.githubusercontent.com/uldyssian-sh/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 <!-- Languages -->
-![](https://raw.githubusercontent.com/uldyssian-sh/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/uldyssian-sh/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![Diagram](https://raw.githubusercontent.com/uldyssian-sh/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Diagram](https://raw.githubusercontent.com/uldyssian-sh/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ---
 
@@ -26,9 +26,9 @@ I'm passionate about designing and deploying enterprise-grade virtualization sol
 - **Virtualization & Cloud**: VMware vSphere, VMware Cloud Foundation
 - **Cloud Platforms**: AWS
 
-![](https://img.shields.io/badge/Language-Bash/Python,PowerShell-informational?style=flat&logo=Language&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Virtualization-VMware-informational?style=flat&logo=Language&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Language&logoColor=white&color=blue)
+![Diagram](https://img.shields.io/badge/Language-Bash/Python,PowerShell-informational?style=flat&logo=Language&logoColor=white&color=blue)
+![Diagram](https://img.shields.io/badge/Virtualization-VMware-informational?style=flat&logo=Language&logoColor=white&color=blue)
+![Diagram](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Language&logoColor=white&color=blue)
 
 ---
 
