@@ -1,189 +1,47 @@
-# uldyssian-sh
+# Hi, I'm LT (uldYssian-sh) 👋
 
-[![GitHub license](https://img.shields.io/github/license/uldyssian-sh/uldyssian-sh)](https://github.com/uldyssian-sh/uldyssian-sh/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/uldyssian-sh/uldyssian-sh)](https://github.com/uldyssian-sh/uldyssian-sh/issues)
-[![GitHub stars](https://img.shields.io/github/stars/uldyssian-sh/uldyssian-sh)](https://github.com/uldyssian-sh/uldyssian-sh/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/uldyssian-sh/uldyssian-sh)](https://github.com/uldyssian-sh/uldyssian-sh/network)
-[![CI](https://github.com/uldyssian-sh/uldyssian-sh/workflows/CI/badge.svg)](https://github.com/uldyssian-sh/uldyssian-sh/actions)
+## 🙋 About Me
+**Infrastructure Engineer | VCIX-DCV | vExpert | Tech Blogger**
+Specialized in **Data Center Virtualization & Cloud Management**.
 
-## 📋 Overview
+I'm passionate about designing and deploying enterprise-grade virtualization solutions, automating infrastructure, and exploring the intersection of cloud and data center technologies.
 
-Enterprise automation and management solution
-
-**Repository Type:** General  
-**Technology Stack:** Python, Shell, Docker
-
-## ✨ Features
-
-- 🚀 **High Performance** - Optimized for enterprise environments
-- 🔒 **Security First** - Built with security best practices
-- 📊 **Monitoring** - Comprehensive logging and metrics
-- 🔧 **Automation** - Fully automated deployment and management
-- 📚 **Documentation** - Extensive documentation and examples
-- 🧪 **Testing** - Comprehensive test coverage
-- 🔄 **CI/CD** - Automated testing and deployment pipelines
-
-## 🚀 Quick Start
-
-### Prerequisites
-
-- Python 3.8+ (for Python projects)
-- Docker (optional)
-- Git
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/uldyssian-sh/uldyssian-sh.git
-cd uldyssian-sh
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the application
-python main.py
-```
-
-### Docker Deployment
-
-```bash
-# Build Docker image
-docker build -t uldyssian-sh .
-
-# Run container
-docker run -p 8080:8080 uldyssian-sh
-```
-
-## 📖 Documentation
-
-- [Installation Guide](docs/installation.md)
-- [Configuration](docs/configuration.md)
-- [API Reference](docs/api.md)
-- [Examples](examples/)
-- [Troubleshooting](docs/troubleshooting.md)
-
-## 🔧 Configuration
-
-Configuration can be done through:
-
-1. **Environment Variables**
-2. **Configuration Files**
-3. **Command Line Arguments**
-
-Example configuration:
-
-```yaml
-# config.yml
-app:
-  name: uldyssian-sh
-  version: "1.0.0"
-  debug: false
-
-logging:
-  level: INFO
-  format: json
-```
-
-## 📊 Usage Examples
-
-### Basic Usage
-
-```python
-from uldyssian-sh import main
-
-# Initialize application
-app = main.Application()
-
-# Run application
-app.run()
-```
-
-### Advanced Configuration
-
-```python
-# Advanced usage with custom configuration
-config = {
-    'debug': True,
-    'log_level': 'DEBUG'
-}
-
-app = main.Application(config=config)
-app.run()
-```
-
-## 🧪 Testing
-
-Run the test suite:
-
-```bash
-# Run all tests
-pytest
-
-# Run with coverage
-pytest --cov=uldyssian-sh
-
-# Run specific test file
-pytest tests/test_main.py
-```
-
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md).
-
-### Development Setup
-
-```bash
-# Fork and clone the repository
-git clone https://github.com/YOUR_USERNAME/uldyssian-sh.git
-cd uldyssian-sh
-
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# Install development dependencies
-pip install -r requirements-dev.txt
-
-# Install pre-commit hooks
-pre-commit install
-```
-
-### Pull Request Process
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Make your changes
-4. Add tests for your changes
-5. Ensure all tests pass
-6. Commit your changes (`git commit -m 'Add amazing feature'`)
-7. Push to your branch (`git push origin feature/amazing-feature`)
-8. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-- 📧 **Email**: [Create an issue](https://github.com/uldyssian-sh/uldyssian-sh/issues/new)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/uldyssian-sh/uldyssian-sh/discussions)
-- 🐛 **Bug Reports**: [Issue Tracker](https://github.com/uldyssian-sh/uldyssian-sh/issues)
-
-## 🙏 Acknowledgments
-
-- VMware Community
-- Open Source Contributors
-- Enterprise Automation Teams
-- Security Research Community
-
-## 📈 Project Stats
-
-![GitHub repo size](https://img.shields.io/github/repo-size/uldyssian-sh/uldyssian-sh)
-![GitHub code size](https://img.shields.io/github/languages/code-size/uldyssian-sh/uldyssian-sh)
-![GitHub last commit](https://img.shields.io/github/last-commit/uldyssian-sh/uldyssian-sh)
-![GitHub contributors](https://img.shields.io/github/contributors/uldyssian-sh/uldyssian-sh)
+💡 Focus areas: **VMware vSphere, VMware Cloud Foundation, vSAN, and Hybrid Cloud**
+🌍 Active in the community, sharing knowledge and contributing to technical blogs and forums.
 
 ---
 
-**Made with ❤️ by [uldyssian-sh](https://github.com/uldyssian-sh)**
+## 📊 GitHub Stats
+
+![](https://raw.githubusercontent.com/uldyssian-sh/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/uldyssian-sh/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+<!-- Languages -->
+![](https://raw.githubusercontent.com/uldyssian-sh/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/uldyssian-sh/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+---
+
+## 🛠️ Technologies & Tools
+- **Virtualization & Cloud**: VMware vSphere, VMware Cloud Foundation
+- **Cloud Platforms**: AWS
+
+![](https://img.shields.io/badge/Language-Bash/Python,PowerShell-informational?style=flat&logo=Language&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Virtualization-VMware-informational?style=flat&logo=Language&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Language&logoColor=white&color=blue)
+
+---
+
+## 🏆 Accomplishments
+- 🌟 **VMware vExpert 2023 - 2025**
+- 🎓 **VCP-VCF Admin/Architect**
+- 🎓 **VCAP-DCV Design**
+- 🎓 **VCIX-DCV 2023**
+- 🎓 **VCAP-DCV Design/Deploy 2023**
+- 🎓 **VCP-VMC/CMA/DCV/NV 2023**
+
+**Other Programs & Communities**
+- 🌐 **AWS Connected Community**
+- 🌐 **Broadcom Community**
+
+---
