@@ -5,17 +5,27 @@ on:
   schedule:
     - cron: '0 0 * * *'
 
-permissions:
-  contents: write
-
 jobs:
   stats:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout stats repo
         uses: actions/checkout@v4
-        
-      - name: Generate Stats
-        uses: teoxoy/profile-readme-stats@v1
         with:
+          repository: uldyssian-sh/github-stats
           token: ${{ secrets.GITHUB_TOKEN }}
+          path: stats-repo
+          
+      - name: Generate stats
+        run: |
+          cd stats-repo
+          python generate_images.py
+          
+      - name: Commit and push
+        run: |
+          cd stats-repo
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git diff --staged --quiet || git commit -m "Update GitHub stats"
+          git push
