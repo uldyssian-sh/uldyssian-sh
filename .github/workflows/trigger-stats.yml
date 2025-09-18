@@ -1,0 +1,22 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  trigger-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger stats update
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: 'uldyssian-sh',
+              repo: 'github-stats',
+              workflow_id: 'update-stats.yml'
+            });
+            console.log('✅ GitHub stats update triggered successfully');
