@@ -1,17 +1,21 @@
-name: Update Stats
+name: GitHub Stats
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '0 0 * * *'
-  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
-  update:
+  stats:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: athul/waka-readme@master
+      - name: Checkout
+        uses: actions/checkout@v4
+        
+      - name: Generate Stats
+        uses: teoxoy/profile-readme-stats@v1
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          REPOSITORY: uldyssian-sh/uldyssian-sh
+          token: ${{ secrets.GITHUB_TOKEN }}
