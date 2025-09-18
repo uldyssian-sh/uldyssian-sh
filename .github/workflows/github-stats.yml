@@ -12,6 +12,9 @@ jobs:
   update-stats:
     name: Update GitHub Stats
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      actions: read
     
     steps:
       - uses: anmol098/waka-readme-stats@master
