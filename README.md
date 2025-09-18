@@ -28,17 +28,3 @@ I'm passionate about designing and deploying enterprise-grade virtualization sol
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Language&logoColor=white&color=blue)
 
 ---
-
-## 🏆 Accomplishments
-- 🌟 **VMware vExpert 2023 - 2025**
-- 🎓 **VCP-VCF Admin/Architect**
-- 🎓 **VCAP-DCV Design**
-- 🎓 **VCIX-DCV 2023**
-- 🎓 **VCAP-DCV Design/Deploy 2023**
-- 🎓 **VCP-VMC/CMA/DCV/NV 2023**
-
-**Other Programs & Communities**
-- 🌐 **AWS Connected Community**
-- 🌐 **Broadcom Community**
-
----
