@@ -5,18 +5,27 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-stats:
     runs-on: ubuntu-latest
     steps:
-      - name: Trigger stats update
-        uses: actions/github-script@v7
+      - uses: actions/checkout@v4
+      
+      - name: Generate GitHub Stats
+        uses: anuraghazra/github-readme-stats@master
         with:
-          github-token: ${{ secrets.STATS_TOKEN }}
-          script: |
-            await github.rest.actions.createWorkflowDispatch({
-              owner: 'uldyssian-sh',
-              repo: 'github-stats',
-              workflow_id: 'update-stats.yml'
-            });
-            console.log('✅ GitHub stats update triggered');
+          username: uldyssian-sh
+          show_icons: true
+          theme: dark
+          
+      - name: Update README timestamp
+        run: |
+          echo "<!-- Updated: $(date) -->" >> README.md
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update stats timestamp" || echo "No changes"
+          git push || echo "Push failed"
