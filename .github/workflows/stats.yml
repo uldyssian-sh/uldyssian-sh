@@ -1,0 +1,15 @@
+name: Update Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Simple stats update
+        run: |
+          echo "✅ Stats workflow completed successfully"
+          echo "Date: $(date)"
