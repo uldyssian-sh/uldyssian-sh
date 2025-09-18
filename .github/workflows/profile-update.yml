@@ -1,0 +1,15 @@
+name: Profile Update
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update profile timestamp
+        run: |
+          echo "Profile updated: $(date)" > /tmp/profile_update.log
+          echo "✅ Profile update completed"
