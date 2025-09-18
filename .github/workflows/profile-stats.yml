@@ -1,4 +1,4 @@
-name: Profile Stats
+name: GitHub Stats
 
 on:
   schedule:
@@ -6,13 +6,17 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme:
+  update-stats:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     
     steps:
       - uses: actions/checkout@v4
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: uldyssian-sh
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Bratislava
