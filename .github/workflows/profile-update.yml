@@ -1,4 +1,4 @@
-name: Profile Update
+name: GitHub Stats
 
 on:
   schedule:
@@ -6,10 +6,17 @@ on:
   workflow_dispatch:
 
 jobs:
-  update:
+  update-stats:
     runs-on: ubuntu-latest
     steps:
-      - name: Update profile timestamp
-        run: |
-          echo "Profile updated: $(date)" > /tmp/profile_update.log
-          echo "✅ Profile update completed"
+      - name: Trigger stats update
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.STATS_TOKEN }}
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: 'uldyssian-sh',
+              repo: 'github-stats',
+              workflow_id: 'update-stats.yml'
+            });
+            console.log('✅ GitHub stats update triggered');
