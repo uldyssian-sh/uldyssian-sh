@@ -13,10 +13,14 @@ jobs:
     
     steps:
       - uses: actions/checkout@v4
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: uldyssian-sh
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Bratislava
+      - name: Generate GitHub Stats
+        run: |
+          curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+               -H "Accept: application/vnd.github.v3+json" \
+               https://api.github.com/users/uldyssian-sh > stats.json
+          echo "GitHub stats updated: $(date)" > last_update.txt
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add stats.json last_update.txt
+          git commit -m "Update GitHub stats" || exit 0
+          git push
