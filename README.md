@@ -19,8 +19,6 @@ I'm passionate about designing and deploying enterprise-grade virtualization sol
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=uldyssian-sh&theme=dark&hide_border=true&background=0d1117)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=uldyssian-sh&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=uldyssian-sh&color=58a6ff&style=flat)
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uldyssian-sh&theme=github_dark)
