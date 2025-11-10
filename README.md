@@ -23,8 +23,6 @@ I'm passionate about designing and deploying enterprise-grade virtualization sol
 
 ![Profile Views](https://komarev.com/ghpvc/?username=uldyssian-sh&color=58a6ff&style=flat)
 
-![Contributions](https://ghchart.rshah.org/58a6ff/uldyssian-sh)
-
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uldyssian-sh&theme=github_dark)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&lines=Infrastructure+Engineer;VMware+vExpert;Cloud+Specialist;VCIX-DCV+Certified)
