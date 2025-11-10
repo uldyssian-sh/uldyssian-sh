@@ -17,7 +17,7 @@ I'm passionate about designing and deploying enterprise-grade virtualization sol
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uldyssian-sh&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=0)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&lines=Infrastructure+Engineer;VMware+vExpert;Cloud+Specialist;VCIX-DCV+Certified)
+
 
 ---
 
