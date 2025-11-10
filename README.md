@@ -1,4 +1,4 @@
-# Hi, I'm LT (uldYssian-sh) 👋
+# Hi, I'm LT (uldYssian-sh)
 
 ## 🙋 About Me
 **Infrastructure Engineer | VCIX-DCV | vExpert | Tech Blogger**
