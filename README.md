@@ -13,25 +13,9 @@ I'm passionate about designing and deploying enterprise-grade virtualization sol
 
 ## 📊 GitHub Stats
 
-![GitHub Stats - Dark](https://github-readme-stats.vercel.app/api?username=uldyssian-sh&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&cache_seconds=0)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uldyssian-sh&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&cache_seconds=0)
 
-![GitHub Stats - GitHub Dark](https://github-readme-stats.vercel.app/api?username=uldyssian-sh&show_icons=true&theme=github_dark&cache_seconds=0)
-
-![GitHub Stats - Radical](https://github-readme-stats.vercel.app/api?username=uldyssian-sh&show_icons=true&theme=radical&cache_seconds=0)
-
-![GitHub Stats - Tokyonight](https://github-readme-stats.vercel.app/api?username=uldyssian-sh&show_icons=true&theme=tokyonight&cache_seconds=0)
-
-![GitHub Stats - Dracula](https://github-readme-stats.vercel.app/api?username=uldyssian-sh&show_icons=true&theme=dracula&cache_seconds=0)
-
-![GitHub Stats - Synthwave](https://github-readme-stats.vercel.app/api?username=uldyssian-sh&show_icons=true&theme=synthwave&cache_seconds=0)
-
-![GitHub Stats - Cobalt](https://github-readme-stats.vercel.app/api?username=uldyssian-sh&show_icons=true&theme=cobalt&cache_seconds=0)
-
-![Top Languages - Compact](https://github-readme-stats.vercel.app/api/top-langs/?username=uldyssian-sh&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=0)
-
-![Top Languages - Donut](https://github-readme-stats.vercel.app/api/top-langs/?username=uldyssian-sh&layout=donut&theme=dark&cache_seconds=0)
-
-![Top Languages - Pie](https://github-readme-stats.vercel.app/api/top-langs/?username=uldyssian-sh&layout=pie&theme=dark&cache_seconds=0)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uldyssian-sh&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=0)
 
 
 
