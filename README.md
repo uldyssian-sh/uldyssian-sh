@@ -13,9 +13,9 @@ I'm passionate about designing and deploying enterprise-grade virtualization sol
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uldyssian-sh&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_rank=true&include_all_commits=true&count_private=true&cache_seconds=1800&disable_animations=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=uldyssian-sh&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uldyssian-sh&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&cache_seconds=21600&disable_animations=false)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=uldyssian-sh&theme=github-compact&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=true)
 
 ---
 
