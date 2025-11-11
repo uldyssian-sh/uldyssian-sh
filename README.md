@@ -13,9 +13,11 @@ I'm passionate about designing and deploying enterprise-grade virtualization sol
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uldyssian-sh&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_rank=true&include_all_commits=false&count_private=false&cache_seconds=300&disable_animations=false&custom_title=LT's%20GitHub%20Stats)
+![GitHub Stats](https://raw.githubusercontent.com/uldyssian-sh/github-stats/main/generated/modern-overview.svg#gh-dark-mode-only)
+![GitHub Stats](https://raw.githubusercontent.com/uldyssian-sh/github-stats/main/generated/overview.svg#gh-light-mode-only)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uldyssian-sh&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&cache_seconds=21600&disable_animations=false)
+![Top Languages](https://raw.githubusercontent.com/uldyssian-sh/github-stats/main/generated/modern-languages.svg#gh-dark-mode-only)
+![Top Languages](https://raw.githubusercontent.com/uldyssian-sh/github-stats/main/generated/languages.svg#gh-light-mode-only)
 
 ---
 
