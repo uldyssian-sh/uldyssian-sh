@@ -1,8 +1,7 @@
 # Hi, I'm LT (uldYssian-sh)
 
 ## 🙋 About Me
-**Infrastructure Engineer | VCIX-DCV | vExpert | Tech Blogger**
-Specialized in **Data Center Virtualization & Cloud Management**.
+
 
 I'm passionate about designing and deploying enterprise-grade virtualization solutions, automating infrastructure, and exploring the intersection of cloud and data center technologies.
 
