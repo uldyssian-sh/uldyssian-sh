@@ -16,8 +16,6 @@ I'm passionate about designing and deploying enterprise-grade virtualization sol
 
 ![](https://raw.githubusercontent.com/uldyssian-sh/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=uldyssian-sh&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
-
 ---
 
 ## 🛠️ Technologies & Tools
