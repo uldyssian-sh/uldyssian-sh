@@ -12,6 +12,10 @@ I'm passionate about designing and deploying enterprise-grade virtualization sol
 
 ## 📊 GitHub Stats
 
+![](https://raw.githubusercontent.com/uldyssian-sh/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
+![](https://raw.githubusercontent.com/uldyssian-sh/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=uldyssian-sh&theme=github_dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=uldyssian-sh&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
