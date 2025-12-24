@@ -12,9 +12,9 @@ I'm passionate about designing and deploying enterprise-grade virtualization sol
 
 ## 📊 GitHub Stats
 
-![](https://raw.githubusercontent.com/uldyssian-sh/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![GitHub Stats](https://raw.githubusercontent.com/uldyssian-sh/github-stats/master/generated/overview.svg)
 
-![](https://raw.githubusercontent.com/uldyssian-sh/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Language Stats](https://raw.githubusercontent.com/uldyssian-sh/github-stats/master/generated/languages.svg)
 
 ---
 
