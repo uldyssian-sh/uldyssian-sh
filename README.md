@@ -12,11 +12,11 @@ I'm passionate about designing and deploying enterprise-grade virtualization sol
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=uldyssian-sh&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=uldyssian-sh&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=uldyssian-sh&layout=compact&theme=dark&hide_border=true&langs_count=10)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=uldyssian-sh&layout=compact&theme=dark&hide_border=true&langs_count=10&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=uldyssian-sh&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=uldyssian-sh&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
 ---
 
