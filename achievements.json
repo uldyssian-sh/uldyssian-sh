@@ -1,0 +1,14 @@
+{
+  "unlocked": [
+    "first_scan",
+    "automation_lord",
+    "marathon_runner",
+    "night_warrior"
+  ],
+  "stats": {
+    "scans": 10,
+    "monitoring": 5,
+    "deployments": 3,
+    "optimizations": 8
+  }
+}
