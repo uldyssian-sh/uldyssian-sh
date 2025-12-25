@@ -3,12 +3,16 @@
     "first_scan",
     "automation_lord",
     "marathon_runner",
-    "night_warrior"
+    "night_warrior",
+    "security_expert",
+    "system_master",
+    "deployment_wizard",
+    "performance_guru"
   ],
   "stats": {
-    "scans": 10,
-    "monitoring": 5,
-    "deployments": 3,
-    "optimizations": 8
+    "scans": 20,
+    "monitoring": 10,
+    "deployments": 6,
+    "optimizations": 16
   }
 }
