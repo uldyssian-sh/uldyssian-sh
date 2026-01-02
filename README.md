@@ -10,16 +10,6 @@ I'm passionate about designing and deploying enterprise-grade virtualization sol
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://raw.githubusercontent.com/uldyssian-sh/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![GitHub Stats](https://raw.githubusercontent.com/uldyssian-sh/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-![Language Stats](https://raw.githubusercontent.com/uldyssian-sh/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![Language Stats](https://raw.githubusercontent.com/uldyssian-sh/github-stats/master/generated/languages.svg#gh-light-mode-only)
-
----
-
 ## 🛠️ Technologies & Tools
 - **Virtualization & Cloud**: VMware vSphere, VMware Cloud Foundation
 - **Cloud Platforms**: AWS
