@@ -1,4 +1,4 @@
-# Hi, I'm LT (uldYssian-sh)
+# Hi, I'm uldYssian-sh
 
 ## 🙋 About Me
 
