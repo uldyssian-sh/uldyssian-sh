@@ -19,3 +19,7 @@ I'm passionate about designing and deploying enterprise-grade virtualization sol
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Language&logoColor=white&color=blue)
 
 ---
+
+Maintained by: uldyssian-sh
+
+Disclaimer: Use of this code is at your own risk. Author bears no responsibility for any damages caused by the code.
